@@ -4,8 +4,8 @@ module mux_tb;
     wire _out;
 
     initial begin
-        $dumpfile("mux_tb.vcd");
-        $dumpvars;
+        $dumpfile("mux_tb.vcd");                // vcd filename
+        $dumpvars;                              // vcd output
         _in = 8'b00000000;  _sel = 3'b000;
         #1 _in = 8'b10000000;  _sel = 3'b000;
         #1 _in = 8'b01000000;  _sel = 3'b001;
