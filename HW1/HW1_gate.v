@@ -3,7 +3,7 @@ module HW1_gate(a, b, c, d, s);
     output s;
 
     wire s0, b_, s1;
-
+    // Gate Level Design
     xor xor1(s0, a, b);
     not not1(b_, b);
     or or1(s1, b_, c, d);

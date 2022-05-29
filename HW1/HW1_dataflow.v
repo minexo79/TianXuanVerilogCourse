@@ -3,7 +3,7 @@ module HW1_dataflow(a, b, c, d, s);
     output s;
 
     wire s0, s1;
-
+    // Dataflow Level Design
     assign s0 = a ^ b;
     assign s1 = (!b) | c | d;
     assign s = s0 & s1;
