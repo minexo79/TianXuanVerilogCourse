@@ -1,21 +1,21 @@
 `include "FA.v"
 
 module CLG(cin, g, p, c, cout);
-// Carry Lookahead Generator
+    // Carry Lookahead Generator
     input cin;
     input [3:0] g, p;
     output [2:0] c;
     output cout;
 
     assign c[0] = g[0] | (p[0] & cin);
-    assign c[1] = g[1] | (p[1] & c[0]);
-    assign c[2] = g[2] | (p[2] & c[1]);
-    assign cout = g[3] | (p[3] & c[2]);
+    assign c[1] = g[1] | (p[1] & (g[0] | (p[0] & cin)));
+    assign c[2] = g[2] | (p[2] & (g[1] | (p[1] & (g[0] | (p[0] & cin)))));
+    assign cout = g[3] | (p[3] & (g[2] | (p[2] & (g[1] | (p[1] & (g[0] | (p[0] & cin)))))));
 
 endmodule
 
 module CLA4(A, B, Cin, S, Cout);
-// Carry Lookahead Adder
+    // Carry Lookahead Adder
     input [3:0] A, B;
     input Cin;
     output [3:0] S;
