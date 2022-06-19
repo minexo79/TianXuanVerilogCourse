@@ -1,0 +1,8 @@
+D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/GowinTest/GowinTest/src/half_add.v {1 {vlog -work half_add -stats=none D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/GowinTest/GowinTest/src/half_add.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module half_add
+
+Top level modules:
+	half_add
+
+} {} {}}

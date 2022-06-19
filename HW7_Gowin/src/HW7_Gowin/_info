@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vadds4
+Z0 !s110 1655652774
+!i10b 1
+!s100 Va[bB]Tn0IGI@Q>bYRmCH2
+IFW?m8lJdDdz?ee4^HZ3K81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src
+w1655652356
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655652774.000000
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4.v|
+!s90 -reportprogress|300|-work|HW7_Gowin|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4.v|
+!i113 1
+Z5 o-work HW7_Gowin
+Z6 tCvgOpt 0
+vadds4_tb
+R0
+!i10b 1
+!s100 O]HlnzlAz79HMnYllRKJ>0
+IDA_0OLDc5o`Lmc]]@?oHM3
+R1
+R2
+w1655652747
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4_tb.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4_tb.v|
+!s90 -reportprogress|300|-work|HW7_Gowin|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/adds4_tb.v|
+!i113 1
+R5
+R6
+vfull_adder
+R0
+!i10b 1
+!s100 KIQCJ0CPV1JWgGNoC1G=n2
+IKA:G1lh1in`967F2i=4F[0
+R1
+R2
+w1655226319
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/full_adder.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/full_adder.v|
+!s90 -reportprogress|300|-work|HW7_Gowin|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src/full_adder.v|
+!i113 1
+R5
+R6

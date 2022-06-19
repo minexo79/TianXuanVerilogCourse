@@ -1,2 +1,5 @@
 *.vcd
 *.vvp
+impl/
+*.gprj
+*.gprj.user
