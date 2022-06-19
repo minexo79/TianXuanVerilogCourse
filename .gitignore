@@ -1,5 +1,8 @@
+# iverilog
 *.vcd
 *.vvp
+
+# Gowin EDA
 impl/
 *.gprj
 *.gprj.user

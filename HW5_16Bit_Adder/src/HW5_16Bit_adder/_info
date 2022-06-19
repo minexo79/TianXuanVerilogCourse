@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW7_Gowin/src
+vfa
+Z0 !s110 1655656249
+!i10b 1
+!s100 5EPMB?[L^<E:6eAa7`_4R3
+IXllYL7?DTIXm^WCM>ZmC_2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src
+w1655653743
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/fa.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/fa.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655656249.000000
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/fa.v|
+!s90 -reportprogress|300|-work|HW5_16Bit_adder|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/fa.v|
+!i113 1
+Z5 o-work HW5_16Bit_adder
+Z6 tCvgOpt 0
+vrca16
+R0
+!i10b 1
+!s100 aDbI15_C;GdF`VMzSAl_22
+IJmcCn[d`31DGo_0;fW7N?2
+R1
+R2
+w1655655145
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16.v|
+!s90 -reportprogress|300|-work|HW5_16Bit_adder|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16.v|
+!i113 1
+R5
+R6
+vrca16_tb
+R0
+!i10b 1
+!s100 IDnKn?PHZ>zef8oQ;<_ne2
+I6O7a3?OoMbR>enfke=0S[3
+R1
+R2
+w1655656227
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16_tb.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16_tb.v|
+!s90 -reportprogress|300|-work|HW5_16Bit_adder|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca16_tb.v|
+!i113 1
+R5
+R6
+vrca8
+R0
+!i10b 1
+!s100 _1HFi[nfM98iQBZ`WzW:Y3
+IGB2e;lAf?N@lWdCk_I5K>3
+R1
+R2
+w1655654184
+8D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca8.v
+FD:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca8.v|
+!s90 -reportprogress|300|-work|HW5_16Bit_adder|-stats=none|D:/XO-Workspace/Personal_Project/OtherWorkspace/TianXuanVerilogCourse/HW5_16Bit_Adder/src/rca8.v|
+!i113 1
+R5
+R6
