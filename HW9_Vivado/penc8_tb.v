@@ -20,17 +20,21 @@
 
 module penc8_tb();
     reg [7:0] in;
+    wire vaild;
     wire [2:0] out;
     
-    penc8 _penc(in, out);
+    penc8 _penc(in, out, vaild);
     
     reg [7:0] i;
     
     initial begin
         in = 0;
+        
         for(i=1;i<256;i=i+1) 
             #1 in = i;
+            
         #1 $stop;
+        #1 $finish;
     end
     
 endmodule
